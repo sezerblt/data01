@@ -1,2 +1,2 @@
 # data01
-şimdilik herhangi bir not yazılmadı.Test repository için commit
+şimdilik herhangi bir not yazılmadı.Test master için commit
